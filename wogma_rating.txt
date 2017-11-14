@@ -1,0 +1,9 @@
+Beg or borrow, but do watch 1
+Add to 'must watch' list 1
+Owner's Pride! 1
+The keen should rent; else TV/online 2
+Watch if you have nothing better to do 2
+Watch when on TV/online 2
+Switch channels if it's on cable! 3
+
+remove all instances with *other ratings/ no ratings*
